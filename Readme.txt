@@ -17,4 +17,4 @@ pip install numpy
 __________________
 after installing  all libraries 
 RUN IN TERMINAL ::::
-python eye_mouse_controller.py
+python eyemousecontroller.py
